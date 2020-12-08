@@ -1,5 +1,5 @@
-# cheat sheet:
-# https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+# https://www.learnpython.org/en/Pandas_Basics
+# cheat sheet: https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
 
 import pandas as pd
 
